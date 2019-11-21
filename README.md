@@ -4,9 +4,9 @@ In this project automated processes implemented using a web crawler. It is a for
 
 Main tools I used:
 
-Python (3.7)
-Scrapy (1.6)
-MongoDB (Cloud)
-SQLite (3.30)
-Anaconda (1.9.7)
-Pycharm
+*Python (3.7)
+*Scrapy (1.6)
+*MongoDB (Cloud)
+*SQLite (3.30)
+*Anaconda (1.9.7)
+*Pycharm
